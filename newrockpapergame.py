@@ -1,3 +1,7 @@
+# rock paper code
+#full code
+
+
 continue_check=True
 while continue_check:
 	i=1
