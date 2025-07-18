@@ -34,3 +34,23 @@ It is a simple game where you can play against computers.
 
 ###Technologies Used
  **Python**
+ 
+
+## Logics and Learnings related with this Game
+
+1. User Input Handling.
+
+2. Conditional Logics:
+
+ - if
+ 
+ - elif
+ 
+ - else
+ 
+3. Random Number Generation (random module).
+
+4. Loops and Program Flow Control.
+ 
+ 
+ 
