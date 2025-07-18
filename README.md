@@ -1,3 +1,4 @@
+
 # RockPaper Game
 
 ## About this project
@@ -51,6 +52,4 @@ It is a simple game where you can play against computers.
 3. Random Number Generation (random module).
 
 4. Loops and Program Flow Control.
- 
- 
- 
+
